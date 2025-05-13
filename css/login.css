@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.capa {
+    width: 50%;
+    height: 100vh;
+    min-width: 350px;
+    max-width: 50%;
+}
+
+.capa-div {
+    display: flex;
+}
+
+.form-div {
+    width: 50%;
+    padding: 50px 100px;
+}
+
+button {
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    background-color: red;
+    color: white;
+}
+
+.estampa {
+    border: 10px solid cyan;
+    border-radius: 30px 30px;
+    box-shadow: 0 0 35px royalblue;
+}
+
+button {
+    border-radius: 15px 15px;
+}
+
+button:hover {
+    background-color: crimson;
+}
+
+ form p{
+    margin-bottom: 15px;
+}
+
+form label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+from input {
+    padding: 12px;
+    width: 10%;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+a{
+    
+}
+/* comentario em css */
